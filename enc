@@ -1,4 +1,0 @@
-cd $HOME/AKMOD_ENC
-chmod +x menu
-chmod +x ENCRYPT
-./menu
