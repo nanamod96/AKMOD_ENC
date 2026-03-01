@@ -1,0 +1,3 @@
+cd $HOME/AKMOD_ENC
+chmod +x *
+./main
